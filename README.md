@@ -14,4 +14,8 @@ Skora, L. I., Livermore, J. J. A., & Roelofs, K. (2022). The functional role of 
 Thank you to Dr. Dominique Makowski for taking the time to supervise this project as part of the JRA Scheme. I very much look forward to further scaling the study to hopefully uncover some novel findings!
 
 ## Poster
-[**Click here to view my poster!**](jra_poster.png)
+<p align="center"
+<figure>
+<img src = "jra_poster.png" width = 90%/>
+</figure>
+</p>
