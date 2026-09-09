@@ -1,6 +1,8 @@
 # Oliver Collins JRA Poster
 Poster summarising my Junior Research Associate (JRA) project (University of Sussex), in which I investigated the role of the cardiac phase on visual illusion sensitivity.
 
+**Project title**: "Role of the Cardiac Cycle in the Perception of Reality and Illusion"
+
 ## References
 Azzalini, D., Rebollo, I., & Tallon-Baudry, C. (2019). Visceral Signals Shape Brain Dynamics and Cognition. Trends in Cognitive Sciences, 23(6), 488–509. https://doi.org/10.1016/j.tics.2019.03.007
 
